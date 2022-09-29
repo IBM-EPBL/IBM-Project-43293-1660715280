@@ -1,6 +1,6 @@
 <br>
 <div align="center">
-<img src="https://www.freepnglogos.com/uploads/ibm-logo-png/ibm-logo-png-transparent-svg-vector-bie-supply-3.png"  align="center" alt="drawing" width="200" />
+<img src="<a href="https://www.freepnglogos.com/pics/ibm-logo">Ibm Logo from freepnglogos.com</a>"  align="center" alt="drawing" width="200" />
   <h2 align="center"> UNIVERSITY ADMIT ELIGIBILITY PREDICTOR <br></h2>
 
   </div>
