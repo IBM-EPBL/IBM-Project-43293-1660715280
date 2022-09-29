@@ -12,7 +12,7 @@
 <br>
   
 
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="40px"> Team Members: </h2> 
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="40px"> TEAM MEMBERS: </h2> 
 <ul><i>
   <li> PRAVEEN KUMAR.S </li>
   <li> VIGNESH.S </li>
@@ -31,7 +31,7 @@
   </ul>
 <br>
   
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="40px"> Domain</h2>
+  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="40px"> DOMAIN</h2>
 
 <p float="middle" align="center">
     <img src="https://raw.githubusercontent.com/blurred-machine/blurred-machine/master/animation.gif" width=400>
