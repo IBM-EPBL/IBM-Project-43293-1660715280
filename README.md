@@ -1,7 +1,7 @@
 <br>
 <div align="center">
 <img src="https://img.icons8.com/nolan/512/ibm.png"  align="center" alt="drawing" width="200" />
-  <h2 align="center"> UNIVERSITY ADMIT ELIGIBILITY PREDICTOR <br></h2>
+  <h2 align="center"> <b>UNIVERSITY ADMIT ELIGIBILITY PREDICTOR <b><br></h2>
 
   </div>
  <br> 
