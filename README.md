@@ -1,6 +1,6 @@
 <br>
 <div align="center">
-<img src="https://pngimg.com/uploads/ibm/ibm_PNG19655.png"  align="center" alt="drawing" width="200" />
+<img src="https://www.freepnglogos.com/uploads/ibm-logo-png/ibm-logo-png-transparent-svg-vector-bie-supply-3.png"  align="center" alt="drawing" width="200" />
   <h2 align="center"> UNIVERSITY ADMIT ELIGIBILITY PREDICTOR <br></h2>
 
   </div>
@@ -14,10 +14,10 @@
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="40px"> Team Members: </h2> 
 <ul><i>
-  <li> Shruthi.P.G </li>
-  <li> Vino.S </li>
-  <li> Sindhuja.V </li>
-  <li> Mayakannan.L </li>
+  <li> PRAVEEN KUMAR.S </li>
+  <li> VIGNESH.S </li>
+  <li> MOHAMED IQRAMULLAH </li>
+  <li> MOHAMMED MOOSA  </li>
   </i>
   </ul>
 <br>
@@ -40,7 +40,7 @@
 <div align="center">
 <table> 
   <tr>
-    <td>Applied Data Science</td>
+    <td>APPLIED DATA SCIENCE</td>
   </tr>
  </table>
 
@@ -50,8 +50,6 @@
   <!-- tasks -->
   <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Mechanical%20Arm.png" width="40px"> Tasks: </h2>
   
-- [x] Brainstorm and Ideation <br>
-- [x] Problem Statement <br>
-- [x] Empathy Map <br>
+
 - [x] Assignment 1 <br>
 - [x] Assignment 2  <br>
