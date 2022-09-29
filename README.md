@@ -21,7 +21,7 @@
   </i>
   </ul>
 <br>
-<h2>📃 Abstract:</h2><i>
+<h2>📃 ABSTRACT:</h2><i>
 <ul>
 <li>Students are often worried about their chances of admission to University. </li>
 <li>The aim of this project is to help students in shortlisting universities with their profiles. </li>
