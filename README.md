@@ -35,7 +35,6 @@
 
  <br>
   
-  <!-- tasks -->
-  <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Mechanical%20Arm.png" width="40px"> TASKS: </h2>
+ 
   
 
